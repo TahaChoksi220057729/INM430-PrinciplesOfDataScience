@@ -1,1 +1,2 @@
-# INM403-PrinciplesOfDataScience
+# INM430-PrinciplesOfDataScience Coursework
+
